@@ -1,0 +1,6 @@
+﻿{
+  "MaxNumOfSaveNumIDs": 42,
+  "FirstSaveNumID": 23,
+  "LastSaveNumID": 64,
+  "OffsetOfEvc1000SaveNumID": 8192
+}

@@ -1,0 +1,98 @@
+﻿[
+  {
+    "ByteSize": 4,
+    "DummyText": "所持金変更:(-123210)",
+    "DummyBinary": "Rxwz7Q==",
+    "BitMask": "/////w=="
+  },
+  {
+    "ByteSize": 8,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[あああ]]",
+    "DummyBinary": "HgAAALGxsQA=",
+    "BitMask": "/wAAAP////8="
+  },
+  {
+    "ByteSize": 12,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああ]]",
+    "DummyBinary": "HgAAALGxsbEAAAAA",
+    "BitMask": "/wAAAP//////////"
+  },
+  {
+    "ByteSize": 16,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああいいいい]]",
+    "DummyBinary": "HgAAALGxsbGysrKyAAAAAA==",
+    "BitMask": "/wAAAP///////////////w=="
+  },
+  {
+    "ByteSize": 20,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああいいいいうううう]]",
+    "DummyBinary": "HgAAALGxsbGysrKys7OzswAAAAA=",
+    "BitMask": "/wAAAP////////////////////8="
+  },
+  {
+    "ByteSize": 24,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああいいいいううううええええ]]",
+    "DummyBinary": "HgAAALGxsbGysrKys7Ozs7S0tLQAAAAA",
+    "BitMask": "/wAAAP//////////////////////////"
+  },
+  {
+    "ByteSize": 28,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああいいいいううううええええおおおお]]",
+    "DummyBinary": "HgAAALGxsbGysrKys7Ozs7S0tLS1tbW1AAAAAA==",
+    "BitMask": "/wAAAP///////////////////////////////w=="
+  },
+  {
+    "ByteSize": 32,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああいいいいううううええええおおおおかかかか]]",
+    "DummyBinary": "HgAAALGxsbGysrKys7Ozs7S0tLS1tbW1tra2tgAAAAA=",
+    "BitMask": "/wAAAP////////////////////////////////////8="
+  },
+  {
+    "ByteSize": 36,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああいいいいううううええええおおおおかかかかきききき]]",
+    "DummyBinary": "HgAAALGxsbGysrKys7Ozs7S0tLS1tbW1tra2tre3t7cAAAAA",
+    "BitMask": "/wAAAP//////////////////////////////////////////"
+  },
+  {
+    "ByteSize": 40,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああいいいいううううええええおおおおかかかかききききくくくく]]",
+    "DummyBinary": "HgAAALGxsbGysrKys7Ozs7S0tLS1tbW1tra2tre3t7e4uLi4AAAAAA==",
+    "BitMask": "/wAAAP///////////////////////////////////////////////w=="
+  },
+  {
+    "ByteSize": 44,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああいいいいううううええええおおおおかかかかききききくくくくけけけけ]]",
+    "DummyBinary": "HgAAALGxsbGysrKys7Ozs7S0tLS1tbW1tra2tre3t7e4uLi4ubm5uQAAAAA=",
+    "BitMask": "/wAAAP////////////////////////////////////////////////////8="
+  },
+  {
+    "ByteSize": 48,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああいいいいううううええええおおおおかかかかききききくくくくけけけけここここ]]",
+    "DummyBinary": "HgAAALGxsbGysrKys7Ozs7S0tLS1tbW1tra2tre3t7e4uLi4ubm5ubq6uroAAAAA",
+    "BitMask": "/wAAAP//////////////////////////////////////////////////////////"
+  },
+  {
+    "ByteSize": 52,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああいいいいううううええええおおおおかかかかききききくくくくけけけけここここささささ]]",
+    "DummyBinary": "HgAAALGxsbGysrKys7Ozs7S0tLS1tbW1tra2tre3t7e4uLi4ubm5ubq6urq7u7u7AAAAAA==",
+    "BitMask": "/wAAAP///////////////////////////////////////////////////////////////w=="
+  },
+  {
+    "ByteSize": 56,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああいいいいううううええええおおおおかかかかききききくくくくけけけけここここささささしししし]]",
+    "DummyBinary": "HgAAALGxsbGysrKys7Ozs7S0tLS1tbW1tra2tre3t7e4uLi4ubm5ubq6urq7u7u7vLy8vAAAAAA=",
+    "BitMask": "/wAAAP////////////////////////////////////////////////////////////////////8="
+  },
+  {
+    "ByteSize": 60,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああいいいいううううええええおおおおかかかかききききくくくくけけけけここここささささししししすすすす]]",
+    "DummyBinary": "HgAAALGxsbGysrKys7Ozs7S0tLS1tbW1tra2tre3t7e4uLi4ubm5ubq6urq7u7u7vLy8vL29vb0AAAAA",
+    "BitMask": "/wAAAP//////////////////////////////////////////////////////////////////////////"
+  },
+  {
+    "ByteSize": 64,
+    "DummyText": "文字列設定:(Ｅｍｐｔｙ)[[ああああいいいいううううええええおおおおかかかかききききくくくくけけけけここここささささししししすすすすせせせせ]]",
+    "DummyBinary": "HgAAALGxsbGysrKys7Ozs7S0tLS1tbW1tra2tre3t7e4uLi4ubm5ubq6urq7u7u7vLy8vL29vb2+vr6+AAAAAA==",
+    "BitMask": "/wAAAP///////////////////////////////////////////////////////////////////////////////w=="
+  }
+]
